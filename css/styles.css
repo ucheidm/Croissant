@@ -1,0 +1,21 @@
+body {
+  background: lightcoral;
+  font-size: 30px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+h1 {
+  text-align: center;
+}
+a {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
